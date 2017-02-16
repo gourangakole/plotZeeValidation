@@ -19,7 +19,7 @@ pad1 = []
 pad2 = []
 
 singlePho = False
-normalizeToArea = True
+normalizeToArea = False
 colors = (ROOT.myColorA3, ROOT.kMagenta, ROOT.kGreen, ROOT.kCyan, ROOT.kRed, ROOT.kOrange)
 lumi= 36.5
 #rocessedlumi= 36.5
